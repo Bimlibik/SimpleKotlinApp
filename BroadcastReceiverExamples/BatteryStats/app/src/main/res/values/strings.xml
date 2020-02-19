@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BatteryStats</string>
+    <string name="battery_level">Battery level: %d</string>
+    <string name="voltage">Voltage: %d V</string>
+    <string name="temperature">Temperature: %d °C</string>
+    <string name="technology">Technology: %s</string>
+    <string name="status">Status: %s</string>
+    <string name="health">Health: %s</string>
+    <string name="current">Current: %d</string>
+    <string name="charge">Charge: %s</string>
+</resources>

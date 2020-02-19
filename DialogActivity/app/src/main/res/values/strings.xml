@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DialogActivity</string>
+    <string name="tv_text">I\'m a little activity</string>
+</resources>
