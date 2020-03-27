@@ -1,0 +1,2 @@
+rootProject.name='BasicSorting'
+include ':app'
